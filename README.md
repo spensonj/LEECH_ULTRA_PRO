@@ -163,7 +163,7 @@
 <p><a href="https://github.com/jkjokar2/Leech_Pro_BOTOPAGAL"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![BOTOPAGAL](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/BOTOPAGAL)
+
 
     
 ## CREDITS
