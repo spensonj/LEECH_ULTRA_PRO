@@ -29,7 +29,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/BOTOPAGAL) 👇
 
 ##### Mandatory Variables
 
@@ -44,7 +44,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![BOTOPAGAL](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![BOTOPAGAL](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/BOTOPAGAL)
 
 ##### Optional Configuration Variables
 
@@ -150,7 +150,7 @@
 ➢ `/status`
 
 
-[![BOTOPAGAL](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![BOTOPAGAL](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/BOTOPAGAL)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
@@ -163,7 +163,7 @@
 <p><a href="https://github.com/jkjokar2/Leech_Pro_BOTOPAGAL"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![BOTOPAGAL](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![BOTOPAGAL](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/BOTOPAGAL)
 
     
 ## CREDITS
